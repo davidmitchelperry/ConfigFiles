@@ -154,3 +154,5 @@ bar {
 }
 
 new_window 1pixel
+
+client.focused  #555555 #555555 #ffffff 2e9ef4 #9a64d9
